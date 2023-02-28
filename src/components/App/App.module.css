@@ -1,0 +1,11 @@
+.data {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding: 50px;
+}
+
+h1, h2 {
+    margin: 0;
+}
